@@ -1,4 +1,4 @@
-# Falsk-MongoDB-CRUD-REST-API APP
+# Flask-MongoDB-CRUD-REST-API APP
 
 ## Instruction to run application
 
@@ -24,4 +24,3 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-# Flask-MongoDB-CRUD-REST-API-APP
